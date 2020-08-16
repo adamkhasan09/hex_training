@@ -1,0 +1,14 @@
+C:\Users\ainur\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\ainur\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\ainur\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\ainur\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\ainur\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\ainur\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\ainur\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+F:\project_SCADA\VS\hex_training\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\project_SCADA\VS\hex_training\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\project_SCADA\VS\hex_training\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\project_SCADA\VS\hex_training\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+F:\project_SCADA\VS\hex_training\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\project_SCADA\VS\hex_training\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\project_SCADA\VS\hex_training\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
